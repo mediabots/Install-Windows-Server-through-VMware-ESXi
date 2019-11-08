@@ -1,10 +1,34 @@
 # Install-Windows-Server-through-VMware-ESXi
-**How to Install Windows Server 2016 using VMware ESXi(6.5 Web Client)**
 
-Through out this Tutorial, I am going to use https://oneprovider.com dedicated servers [https://oneprovider.com/dedicated-servers]
+## What is VMware ESXi?
+
+Technical term :
+
+VMware ESXi is an enterprise-class, type-1 hypervisor developed by VMware for deploying and serving virtual computers.
+As a type-1 hypervisor, ESXi is not a software application that is installed on an operating system; instead, 
+it includes and integrates vital OS components, such as a kernel.
+
+In common words:
+
+Using VMware ESXi, one can create virtual machines. And its virtualization technique allow users to install own custom OS, for example Windows OS trail copy or macOS or any other OS.
+
+----
+
+## Requirements:
+
+* A dedicated server with ESXi installed as Operation system
+
+* A Web Browser
+
+* Good Internet speed
+
+----
+
+## Guide to Install Windows Server 2016 using VMware ESXi(6.5 Web Client)
+
+Through out this Tutorial, I am going to use https://oneprovider.com dedicated server [https://oneprovider.com/dedicated-servers] & Windows Server 2016 (Datacenter edition)
 
 Oneprovider is a world leading company for web servers. And one of the cheapest DEDI/BOX provider in the industry(with 0 setup fee).
-
 
 Also their support system is very useful.
 
@@ -26,19 +50,24 @@ And use your credential to log into it. [Note- use credential, which you had cre
 
 Anyway, you are welcome to choose any other Dedicated provider, which can allow you to install ESXi on your server.
 
-## Now what is VMware ESXi?
+<ins>For step-by-step guide, please watch the Youtube Video</ins>
 
-Technical term :
+----
 
-VMware ESXi is an enterprise-class, type-1 hypervisor developed by VMware for deploying and serving virtual computers.
-As a type-1 hypervisor, ESXi is not a software application that is installed on an operating system; instead, 
-it includes and integrates vital OS components, such as a kernel.
+## Video Tutorial
 
-In common words:
+coming soon
 
-Using VMware ESXi, one can create virtual machines. And its virtualization technique allow users to install own custom OS, for example Windows OS trail copy or macOS or any other OS.
- 
+----
+
 ## Download the OS
+
+you can have your own iso copies from Microsoft Official site here: https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server
+
+OR
+
+Download from my Archive below:
+
 ### Widows Server 2016 (evaluation copy/180 days free trial)
 https://archive.org/download/windowsserver2016datacenterevaluationcopy/Windows_Server_2016_Datacenter%28EVALUATION-copy%29.ISO
 
@@ -48,8 +77,12 @@ https://archive.org/download/WS2012R2/WS2012R2.ISO
 ### Widows Server 2008 R2 (evaluation copy/180 days free trial)
 https://archive.org/download/windowsserver2008r2evaluationcopy/WS2008R2.iso
 
+----
+
 ## Download extra dependent server software
 https://archive.org/download/extradependentsoftwares/Extra-Dependent-Softwares.iso
+
+----
 
 ## Server Speedtest
 Tested on 1Gbps France(Paris) Server 
