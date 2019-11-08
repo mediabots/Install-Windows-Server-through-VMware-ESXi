@@ -1,9 +1,9 @@
 # Install-Windows-Server-through-VMware-ESXi
 **How to Install Windows Server 2016 using VMware ESXi(6.5 Web Client)**
 
-On this demo, I am going to use https://oneprovider.net dedicated servers.
+Through out this Tutorial, I am going to use https://oneprovider.com dedicated servers [https://oneprovider.com/dedicated-servers]
 
-Oneprovider.net is a world leading company for web servers. And one of the cheapest DEDI/BOX provider in the industry(with 0 setup fee).
+Oneprovider is a world leading company for web servers. And one of the cheapest DEDI/BOX provider in the industry(with 0 setup fee).
 
 
 Also their support system is very useful.
