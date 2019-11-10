@@ -56,7 +56,8 @@ Anyway, you are welcome to choose any other Dedicated provider, which can allow 
 
 ## Video Tutorial
 
-coming soon
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=" target="_blank"><img src="http://img.youtube.com/vi//0.jpg" 
+alt='I' width="480" height="360" border="10" /></a>
 
 ----
 
@@ -88,7 +89,14 @@ https://archive.org/download/extradependentsoftwares/Extra-Dependent-Softwares.i
 Tested on 1Gbps France(Paris) Server 
 https://www.speedtest.net/result/8743894889
 
+![alt text](https://i.imgur.com/K2I1fyv.png "speedtest of the Windows Server")
+
 ----
 
 ## Conclusion
 
+VMware ESXi trail license only valid 60 days. So it is recommended to backup your server files before its free trial get expired.
+
+If VMware is not running, that means your VM(Virtual Machine) is also not running. So your Windows Server would not be accessible.
+
+However, you should register a legit account at vmware.com and may ask for a free license key.
