@@ -95,8 +95,8 @@ https://www.speedtest.net/result/8743894889
 
 ## Conclusion
 
-VMware ESXi trail license only valid 60 days. So it is recommended to backup your server files before its free trial get expired.
+VMware ESXi trial license only valid for 60 days. So it is recommended to backup your server files before its free trial get expired.
 
-If VMware is not running, that means your VM(Virtual Machine) is also not running. So your Windows Server would not be accessible.
+If VMware ESXi is not running, that means your VM(Virtual Machine) is also not running. So your Windows Server would not be accessible.
 
 However, you should register a legit account at vmware.com and may ask for a free license key.
