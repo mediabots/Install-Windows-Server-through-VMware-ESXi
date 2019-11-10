@@ -1,4 +1,4 @@
-# Install-Windows-Server-through-VMware-ESXi
+#[GUIDE] Install-Windows-Server-through-VMware-ESXi
 
 ## What is VMware ESXi?
 
@@ -56,8 +56,8 @@ Anyway, you are welcome to choose any other Dedicated provider, which can allow 
 
 ## Video Tutorial
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=" target="_blank"><img src="http://img.youtube.com/vi//0.jpg" 
-alt='I' width="480" height="360" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2moglivxmaU" target="_blank"><img src="http://img.youtube.com/vi/2moglivxmaU/0.jpg" 
+alt='[Tutorial Video] How to Install Windows Server 2016 using VMware ESXi 6.5 Web Client' width="480" height="360" border="10" /></a>
 
 ----
 
