@@ -26,13 +26,13 @@ Using VMware ESXi, one can create virtual machines. And its virtualization techn
 
 ## Guide to Install Windows Server 2016 using VMware ESXi(6.5 Web Client)
 
-Through out this Tutorial, I am going to use https://oneprovider.com dedicated server [https://oneprovider.com/dedicated-servers] & Windows Server 2016 (Datacenter edition)
+Through out this Tutorial, I am going to use https://oneprovider.com dedicated server [https://oneprovider.com/dedicated-servers] & Windows Server 2016 Datacenter edition (free evaluation copy)
 
 Oneprovider is a world leading company for web servers. And one of the cheapest DEDI/BOX provider in the industry(with 0 setup fee).
 
-Also their support system is very useful.
+Also their support system is very helpful.
 
-Their payment method includes Paypal with many other payment methods.
+Their payment method includes Paypal with many other familiar payment methods.
 
 In maximum cases, their servers comes with "one click installer", which includes VMware ESXi Web Client.
 
@@ -40,7 +40,7 @@ After receiving server information from Oneprovider, go to "Server manage" page 
 
 From there you can choose to install ESXi. [Remember- server re-installation would take 45 to 60 minutes]
   
-Every server comes with an IP(ipv4) address. So, when installation of ESXi is finished, one can access WMware ESXI web interface, simply through a web browser.
+Every server comes with an IP(ipv4) address. So, when installation of ESXi is finished, one can access the server on WMware ESXI web interface, simply through a web browser.
 
 Just open
 
@@ -87,4 +87,8 @@ https://archive.org/download/extradependentsoftwares/Extra-Dependent-Softwares.i
 ## Server Speedtest
 Tested on 1Gbps France(Paris) Server 
 https://www.speedtest.net/result/8743894889
+
+----
+
+## Conclusion
 
