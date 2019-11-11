@@ -1,4 +1,4 @@
-#[GUIDE] Install-Windows-Server-through-VMware-ESXi
+# [GUIDE] Install-Windows-Server-through-VMware-ESXi
 
 ## What is VMware ESXi?
 
